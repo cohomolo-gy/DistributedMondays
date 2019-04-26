@@ -1,0 +1,184 @@
+Meet up to discuss the last week's distributed systems paper.
+
+(4/22) Chord correctly (http://www.pamelazave.com/TSE_Chord_final.pdf)
+
+(3/25) Chord - Woops! (http://www.pamelazave.com/chord-ccr.pdf)
+
+(3/18) Unicorn (https://research.fb.com/wp-content/uploads/2013/08/unicorn-a-system-for-searching-the-social-graph.pdf)
+
+(3/11) HyperLogLog (http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf)
+
+(3/04) Gossip from 40000 feet  (https://www.distributed-systems.net/my-data/papers/2007.osr.pdf)
+
+(2/25) Chubby (https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
+
+(2/18) Fair Queueing (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.107.1054&rep=rep1&type=pdf)
+
+(02/04) Unstructured Overlays (http://cs.unc.edu/~jasleen/Courses/Fall09/papers/Gnutella-scalable.pdf)
+
+(01/28) Reorderability (http://www.cs.ncl.ac.uk/publications/trs/papers/258.pdf)
+
+(01/14) The state machine approach (http://blough.ece.gatech.edu/8813/schneider_state_machine.pdf)
+
+(12/17)  Approximate Byzantine (http://groups.csail.mit.edu/tds/papers/Lynch/srdsds83.pdf)
+
+(12/10) Viewstamped Replication Done Well (http://pmg.csail.mit.edu/papers/vr-revisited.pdf)
+
+(12/03) pBFT (http://pmg.csail.mit.edu/papers/osdi99.pdf)
+
+(11/26) Viewstamped Replication (http://pmg.csail.mit.edu/papers/vr.pdf)
+
+(11/19) Query (https://www.akamai.com/us/en/multimedia/documents/technical-publication/scaling-a-monitoring-infrastructure-for-the-akamai-network-technical-publication.pdf)
+
+(10/29) Economics (https://arxiv.org/pdf/cs/0403019.pdf)
+
+(10/22) A Gossiped Map (http://www.cs.ucsb.edu/~agrawal/spring2011/ugrad/p70-fischer.pdf)
+
+(10/15) In which we trash gossip (http://www.cs.cornell.edu/projects/Quicksilver/public_pdfs/2007PromiseAndLimitations.pdf)
+
+(10/08) Merkle Trees (http://www.emsec.rub.de/media/crypto/attachments/files/2011/04/becker_1.pdf)
+
+(9/17) P2P networks
+CAN (https://people.eecs.berkeley.edu/~sylvia/papers/cans.pdf): Kevin Cotrone!
+ Chord (https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf): Carter Schonwald
+ Pastry (http://rowstron.azurewebsites.net/PAST/pastry.pdf): Rose Carmichael
+ Tapestry (https://pdos.csail.mit.edu/~strib/docs/tapestry/tapestry_jsac03.pdf): Kevin O'Hara
+ Declarative overlays (http://db.cs.berkeley.edu/papers/sosp05-p2.pdf): Alec
+
+(9/10) RONs and general virtual overlay concepts (http://www-cgi.cs.cmu.edu/~dga/papers/ron-hotos2001.pdf)
+
+(8/27) 0-Knowlege proofs & more SMC (https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Proof%20Systems/The_Knowledge_Complexity_Of_Interactive_Proof_Systems.pdf)
+
+(8/20) SMC (http://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/GBW88/GBW88.pdf)
+
+(8/13) Paxos made live (http://www.read.seas.harvard.edu/~kohler/class/08w-dsi/chandra07paxos.pdf) Practice paper
+
+(8/06) Cheap Paxos (https://lamport.azurewebsites.net/pubs/web-dsn-submission.pdf) (PAXOS Made Simple (https://lamport.azurewebsites.net/pubs/paxos-simple.pdf) May be a useful reference)
+
+(7/30) PAXOS Initial Conceptual Intro (http://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
+We are just approaching this conceptually at this point. Read the paper, don't get stuck on difficult bits. We'll return to PAXOS to treat it in more depth later.
+
+(7/23) Safety & Liveness redux
+
+(7/16) Safety & Liveness (https://www.cs.cornell.edu/fbs/publications/RecSafeLive.pdf ref https://lamport.azurewebsites.net/pubs/abadi-preserving.ps)
+
+(7/9) Consistency (http://www.pmg.csail.mit.edu/papers/icde00.pdf)
+
+(6/25) Review 2
+
+(6/18) Review
+
+(6/11) Libby with Avalanche (https://ipfs.io/ipfs/QmUy4jh5mGNZvLkjies1RWM4YuvJh5o2FYopNPVYwrRVGV)
+
+(5/28) Consistent Hashing (https://www.akamai.com/uk/en/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf)
+
+(5/21) Towards Optimal Distributed Consensus & shifting gears (http://zoo.cs.yale.edu/classes/cs426/2012/lab/bib/berman89towards.pdf shared notes https://docs.google.com/document/d/1ExfJDqMTJ3GeVlSthlLcpOtVqu9WUvkqu2jayz22ImQ/edit?usp=sharing better typetting http://plan9.bell-labs.co/who/garay/cloture.ps and http://w3.cs.huji.ac.il/~dolev/pubs/shifting-gear.pdf For a 2-phase phase kings https://drive.google.com/file/d/1BcEqBCubm9ovy-4vzQrf-kNFx4rjPh8f/view?usp=sharing )
+
+(4/16 & 4/23) Common Knowledge, approximately one half per week (https://arxiv.org/pdf/cs/0006009.pdf)
+
+(4/9) Dynamo (https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+
+(3/12) Coordinated Attack (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.6777&rep=rep1&type=pdf Please see "Notes on Data Base Operating Systems", section "5.8.3.3.1. The Generals Paradox" for background)
+
+(3/05) Simulating Synchronous Processors (http://www.dtic.mil/get-tr-doc/pdf?AD=ADA197410)
+
+(02/26) Weak Byzantine Agreement (https://lamport.azurewebsites.net/pubs/weak-byz.pdf)
+
+(02/19) Harvest & Yield (https://users.ece.cmu.edu/~adrian/731-sp04/readings/FB-cap.pdf)
+
+(02/12) The byzantine Generals Problem (https://web.archive.org/web/20170205142845/http://lamport.azurewebsites.net/pubs/byz.pdf)
+
+(02/05) Conflict-free Replicated Data Types (http://hal.upmc.fr/inria-00609399v2/document)
+
+(01/29) Brewer's Conjecture and the Feasibility of Consistent, Available,Partition-Tolerant Web Services (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.187.8727&rep=rep1&type=pdf)
+
+(12/11) The ϕ Accrual Failure Detector (http://fubica.lsd.ufcg.edu.br/hp/cursos/cfsc/papers/hayashibara04theaccrual.pdf)
+
+(12/04) Flexible Update Propagation for Weakly Consistent Replication (https://www3.nd.edu/~dthain/courses/cse40771/fall2004/papers/bayou.pdf)
+
+(11/20) Designing a commutative replicated data type (https://hal.inria.fr/inria-00177693v2/document)
+
+(11/13) Spanner (https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
+
+(9/11) Failure Detectors (https://ecommons.cornell.edu/bitstream/handle/1813/7192/95-1535.pdf?sequence=1)
+
+(8/28) Vector Clocks (http://zoo.cs.yale.edu/classes/cs426/2012/lab/bib/mattern88virtual.pdf)
+
+(8/21) Synchronization (https://disco.ethz.ch/courses/ws0506/seminar/papers/synchr_complexity.pdf)
+
+(8/14) Distributed MSP (http://www.cse.huji.ac.il/course/2003/rds/p66-gallager.pdf)
+
+(8/7) RAFT (https://raft.github.io/raft.pdf , for carters: https://github.com/ongardie/raft.tla/blob/master/raft.tla and https://github.com/ongardie/raft.tla)
+
+(8/1) Snapshots - Chandy-Lamport algorithm (http://lamport.azurewebsites.net/pubs/chandy.pdf)
+
+(7/31) Byzantine Faults (https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/Reaching-Agreement-in-the-Presence-of-Faults.pdf)
+
+(7/24) Lamport Time (http://lamport.azurewebsites.net/pubs/time-clocks.pdf)
+
+(7/17) Leader Election in Ring Networks (Multiple short papers)
+ - An improved algorithm for decentralized extrema-finding in circular configurations of processes (http://compalg.inf.elte.hu/~tony/Oktatas/Osztott-algoritmusok/p281-chang.pdf)
+  - Decentralized extrema-finding in circular configurations of processors (http://fmfi-uk.hq.sk/Informatika/Uvod%20Do%20Distribuovanych%20Algoritmov/clanky/p627-hirschberg.pdf)
+   - An O(nlogn) unidirectional algorithm for the circular extrema problem (https://fmfi-uk.hq.sk/Informatika/Uvod%20Do%20Distribuovanych%20Algoritmov/clanky/p758-peterson.pdf)
+
+(7/3 + 7/10) ARIES (http://db.csail.mit.edu/madden/html/aries.pdf) [1,6] then [1,13]
+
+(6/26) FLP Result (https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sometime in the future:
+More CRDTs/
+population + gossip protocols
+rendezvous hashing (http://www.cs.ucr.edu/~ravi/Papers/Jrnl/HRW98.pdf)
+Modern consistent hashing (https://arxiv.org/pdf/1406.2294.pdf)
+
+Sequences:
+The Weakest Failure Detector for Solving Consensus (https://pdfs.semanticscholar.org/72d8/82d6c0059a259ee8ea8a91529cd5f482b11a.pdf) - Long
+
+
+Random look at:
+https://arxiv.org/pdf/1702.04263.pdf
+http://vega.cs.kent.edu/~mikhail/classes/aos.f06/ProjectReports/engle.report.pdf
+http://gsd.di.uminho.pt/members/tome/papers/logical_clocks.pdf
+
+Fun easy papers:
+https://lamport.azurewebsites.net/pubs/buridan.pdf
+
+
+Libby stuff:
+Maybe https://tendermint.com/static/docs/tendermint.pdf and/or/(and before) https://arxiv.org/pdf/1710.09437.pdf and/or https://github.com/ethereum/research/blob/master/papers/cbc-consensus/AbstractCBC.pdf ?)
+
+
+Later revisit:
+ https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf
